@@ -8,7 +8,8 @@ export default [
 		input: [
         'src/index.ts',
 		'src/components/AnimDiv.tsx', 
-		'src/components/Sequencer.tsx', 
+		'src/components/Sequencer.tsx',
+		'src/other_comps/typer.tsx', 
 		'src/components/TypeEffect.tsx'], // Entry point of your application
 		output: {
 			dir: 'dist', // Output file in the dist folder
